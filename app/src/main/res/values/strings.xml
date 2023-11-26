@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">localizaApp</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="registro">Registro</string>
+    <string name="nueva_clave">Nueva Clave</string>
+    <string name="registros">Registro</string>
+    <string name="completa_todos_los_campos">Completa todos los Campos</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
